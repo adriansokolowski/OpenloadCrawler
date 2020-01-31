@@ -1,5 +1,7 @@
-# openload-crawler-old
-I publish it since openload.co is dead. Crawler from old project. It connects to the openload API. Grabs movie links from filmy.to,
-remote upload them to the account and then to the server with data from filmweb.
+# openload-crawler-old 
+Web Scrapper from old project
+Publish since openload.co is dead and don't need it anymore...
+Connects to the openload API. Grabs movie links,
+remote upload them to the openload account and to the server with data from filmweb.
 
 Copyright 2017
